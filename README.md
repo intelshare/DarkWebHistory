@@ -1,6 +1,7 @@
 ALL in ONE Search Engine List for DarkWeb: https://iaca-darkweb-tools.com/search-darkweb/
 
-History of Darkweb by:PM_ME_YOUR_APPLAUSES on Dread
+**History of Darkweb**
+                    By:PM_ME_YOUR_APPLAUSES on Dread
 
 Before 2008: The Proto-Dark Web
 The dark web was a loose concept. Anonymity networks like Tor existed for activists and journalists, but organized illicit trade was scattered and rudimentary. Despite this, there were several private darknet forums for drug sales and trades. These forums, mostly on the clearnet but requiring an invitation and login, were early predecessors to the marketplaces we recognize today. The recruitment of users to these forums occurred mainly through public clearnet drug and pharmacy discussion boards, highlighting the early stages of community formation that would later define the dark web's infrastructure. One of these forums, The Book Club, initially opened to the public to quickly build a userbase before transitioning to invitation-only. Some of these private forums transitioned to onion services between 2008 and 2011, marking the beginning of a more structured approach to anonymity and security in the digital underground.
