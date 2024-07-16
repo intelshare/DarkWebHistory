@@ -192,4 +192,5 @@ The dark web faced significant disruptions due to a series of exit scams and int
     May 7: LocalMonero and AgoraDesk announce they are winding down operations.
     May 18: Lin Rui-siang, AKA Pharoah, the alleged administrator of Incognito Market, is arrested at John F. Kennedy Airport.
     May 21: SuperMarket's wallets are drained by an administrator, /u/FatherBear.
+    July 12: German Dark Web vendor linked to Sinaloa Cartel and Clan del Golfo Arrested in Colombia.
 
