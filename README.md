@@ -194,4 +194,5 @@ The dark web faced significant disruptions due to a series of exit scams and int
     May 21: SuperMarket's wallets are drained by an administrator, /u/FatherBear.
     July 12: German Dark Web vendor linked to Sinaloa Cartel and Clan del Golfo Arrested in Colombia.
     July 19: Walsall teenager arrested in connection with a global cyber online crime group which has been targeting large organisations with ransomware and gaining access to computer networks, number of major companies which includes MGM Resorts in America.
+    August 8: Bohemia Admin(s) Kevin Daniel Andrei and 2 more people were arrested in Ireland, 6.5 million euros seized by LEA
 
