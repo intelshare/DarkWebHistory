@@ -196,4 +196,5 @@ The dark web faced significant disruptions due to a series of exit scams and int
     July 13: Walsall teenager arrested in connection with a global cyber online crime group which has been targeting large organisations with ransomware and gaining access to computer networks, number of major companies which includes MGM Resorts in America.
     August 8: Bohemia Admin(s) Kevin Daniel Andrei and 2 more people were arrested in Ireland, 6.5 million euros seized by LEA
     August 13: Maksim Silnikau was arrested in Spain and is now extradited to the USA to face charges for creating the Ransom Cartel ransomware operation in 2021 and running a malvertising operation from 2013 to 2022.The threat actor operated under the aliases "J.P. Morgan," "xxx," and "lansky" on Russian-speaking hacking forums
+    October 16: The Brazil Federal Police launched Operation Data Breach on Wednesday October 16 arrested USDoD, also known as EquationCorp or NATSec, has revealed himself after Crowdstrike dox to be Luan G a 33 year old Brazilian citizen.
 
